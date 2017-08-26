@@ -6,6 +6,9 @@ while (repeat < 10) {
 }
 console.log("Until the sun comes up!");
 
+
+/**add an if statment inside the loop**/
+
 var chorus = "Let's dance!";
 var repeat = 0;
 while (repeat < 10) {
